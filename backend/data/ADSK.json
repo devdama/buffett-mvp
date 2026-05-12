@@ -1,0 +1,75 @@
+{
+  "ticker": "ADSK",
+  "name": "Autodesk, Inc.",
+  "sector": "Technology",
+  "current_price": 234.785,
+  "trailing_pe": 44.89197,
+  "last_updated": "2026-05-11T19:30:53.056212Z",
+  "financials": [
+    {
+      "fiscal_year": 2022,
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "net_income": 0.0,
+      "eps": 0.0,
+      "shares_outstanding": 211145251,
+      "total_assets": 0.0,
+      "total_equity": 0.0,
+      "total_debt": 0.0,
+      "operating_cash_flow": 0.0,
+      "free_cash_flow": 0.0
+    },
+    {
+      "fiscal_year": 2023,
+      "revenue": 5005000000.0,
+      "operating_income": 989000000.0,
+      "net_income": 823000000.0,
+      "eps": 3.78,
+      "shares_outstanding": 215000000.0,
+      "total_assets": 9438000000.0,
+      "total_equity": 1145000000.0,
+      "total_debt": 2666000000.0,
+      "operating_cash_flow": 2071000000.0,
+      "free_cash_flow": 2025000000.0
+    },
+    {
+      "fiscal_year": 2024,
+      "revenue": 5497000000.0,
+      "operating_income": 1128000000.0,
+      "net_income": 906000000.0,
+      "eps": 4.19,
+      "shares_outstanding": 213915325.0,
+      "total_assets": 9912000000.0,
+      "total_equity": 1855000000.0,
+      "total_debt": 2626000000.0,
+      "operating_cash_flow": 1313000000.0,
+      "free_cash_flow": 1252000000.0
+    },
+    {
+      "fiscal_year": 2025,
+      "revenue": 6131000000.0,
+      "operating_income": 1369000000.0,
+      "net_income": 1112000000.0,
+      "eps": 5.12,
+      "shares_outstanding": 214000000.0,
+      "total_assets": 10833000000.0,
+      "total_equity": 2621000000.0,
+      "total_debt": 2559000000.0,
+      "operating_cash_flow": 1607000000.0,
+      "free_cash_flow": 1505000000.0
+    },
+    {
+      "fiscal_year": 2026,
+      "revenue": 7206000000.0,
+      "operating_income": 1794000000.0,
+      "net_income": 1124000000.0,
+      "eps": 5.23,
+      "shares_outstanding": 212000000.0,
+      "total_assets": 12467000000.0,
+      "total_equity": 3045000000.0,
+      "total_debt": 2734000000.0,
+      "operating_cash_flow": 2452000000.0,
+      "free_cash_flow": 2376000000.0
+    }
+  ]
+}

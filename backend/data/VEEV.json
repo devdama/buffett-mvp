@@ -1,0 +1,75 @@
+{
+  "ticker": "VEEV",
+  "name": "Veeva Systems Inc.",
+  "sector": "Healthcare",
+  "current_price": 159.33,
+  "trailing_pe": 29.342543,
+  "last_updated": "2026-05-12T03:40:57.580436Z",
+  "financials": [
+    {
+      "fiscal_year": 2022,
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "net_income": 0.0,
+      "eps": 0.0,
+      "shares_outstanding": 163198698,
+      "total_assets": 0.0,
+      "total_equity": 0.0,
+      "total_debt": 0.0,
+      "operating_cash_flow": 0.0,
+      "free_cash_flow": 0.0
+    },
+    {
+      "fiscal_year": 2023,
+      "revenue": 2155060000.0,
+      "operating_income": 459091000.0,
+      "net_income": 487706000.0,
+      "eps": 3.0,
+      "shares_outstanding": 158244607.0,
+      "total_assets": 4804296000.0,
+      "total_equity": 3716252000.0,
+      "total_debt": 60976000.0,
+      "operating_cash_flow": 780470000.0,
+      "free_cash_flow": 780470000.0
+    },
+    {
+      "fiscal_year": 2024,
+      "revenue": 2363673000.0,
+      "operating_income": 429334000.0,
+      "net_income": 525705000.0,
+      "eps": 3.22,
+      "shares_outstanding": 161260172.0,
+      "total_assets": 5910920000.0,
+      "total_equity": 4644824000.0,
+      "total_debt": 55775000.0,
+      "operating_cash_flow": 911339000.0,
+      "free_cash_flow": 911339000.0
+    },
+    {
+      "fiscal_year": 2025,
+      "revenue": 2746619000.0,
+      "operating_income": 691435000.0,
+      "net_income": 714138000.0,
+      "eps": 4.32,
+      "shares_outstanding": 162583789.0,
+      "total_assets": 7339756000.0,
+      "total_equity": 5832373000.0,
+      "total_debt": 75775000.0,
+      "operating_cash_flow": 1090051000.0,
+      "free_cash_flow": 1090051000.0
+    },
+    {
+      "fiscal_year": 2026,
+      "revenue": 3195311000.0,
+      "operating_income": 916369000.0,
+      "net_income": 908906000.0,
+      "eps": 5.44,
+      "shares_outstanding": 163778271.0,
+      "total_assets": 8979343000.0,
+      "total_equity": 7214752000.0,
+      "total_debt": 95859000.0,
+      "operating_cash_flow": 1415225000.0,
+      "free_cash_flow": 1415225000.0
+    }
+  ]
+}

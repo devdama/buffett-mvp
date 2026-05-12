@@ -1,0 +1,62 @@
+{
+  "ticker": "MSFT",
+  "name": "Microsoft Corporation",
+  "sector": "Technology",
+  "current_price": 411.4,
+  "trailing_pe": 24.5319,
+  "last_updated": "2026-05-11T19:30:53.206596Z",
+  "financials": [
+    {
+      "fiscal_year": 2022,
+      "revenue": 198270000000.0,
+      "operating_income": 83383000000.0,
+      "net_income": 72738000000.0,
+      "eps": 9.65,
+      "shares_outstanding": 7464000000.0,
+      "total_assets": 364840000000.0,
+      "total_equity": 166542000000.0,
+      "total_debt": 61270000000.0,
+      "operating_cash_flow": 89035000000.0,
+      "free_cash_flow": 65149000000.0
+    },
+    {
+      "fiscal_year": 2023,
+      "revenue": 211915000000.0,
+      "operating_income": 88523000000.0,
+      "net_income": 72361000000.0,
+      "eps": 9.68,
+      "shares_outstanding": 7432000000.0,
+      "total_assets": 411976000000.0,
+      "total_equity": 206223000000.0,
+      "total_debt": 59965000000.0,
+      "operating_cash_flow": 87582000000.0,
+      "free_cash_flow": 59475000000.0
+    },
+    {
+      "fiscal_year": 2024,
+      "revenue": 245122000000.0,
+      "operating_income": 109433000000.0,
+      "net_income": 88136000000.0,
+      "eps": 11.8,
+      "shares_outstanding": 7434138859.0,
+      "total_assets": 512163000000.0,
+      "total_equity": 268477000000.0,
+      "total_debt": 67127000000.0,
+      "operating_cash_flow": 118548000000.0,
+      "free_cash_flow": 74071000000.0
+    },
+    {
+      "fiscal_year": 2025,
+      "revenue": 281724000000.0,
+      "operating_income": 128528000000.0,
+      "net_income": 101832000000.0,
+      "eps": 13.64,
+      "shares_outstanding": 7434158655.0,
+      "total_assets": 619003000000.0,
+      "total_equity": 343479000000.0,
+      "total_debt": 60588000000.0,
+      "operating_cash_flow": 136162000000.0,
+      "free_cash_flow": 71611000000.0
+    }
+  ]
+}

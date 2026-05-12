@@ -1,0 +1,25 @@
+# Buffett-Style Checklist Watchlist
+# Edit this file to add or remove stocks
+# After editing, reload via API: POST /api/watchlist/reload
+
+version: "1.0"
+last_updated: "2026-05-10"
+
+stocks:
+  - ticker: VEEV
+    sector: Healthcare IT
+
+  - ticker: INTU
+    sector: Software
+
+  - ticker: ADBE
+    sector: Software
+
+  - ticker: ADSK
+    sector: Software
+
+  - ticker: MSFT
+    sector: Software
+
+  - ticker: BRK.B
+    sector: Conglomerate

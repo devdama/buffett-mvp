@@ -1,0 +1,62 @@
+{
+  "ticker": "ADBE",
+  "name": "Adobe Inc.",
+  "sector": "Technology",
+  "current_price": 245.34,
+  "trailing_pe": 14.297203,
+  "last_updated": "2026-05-11T19:30:52.912144Z",
+  "financials": [
+    {
+      "fiscal_year": 2022,
+      "revenue": 17606000000.0,
+      "operating_income": 6098000000.0,
+      "net_income": 4756000000.0,
+      "eps": 10.1,
+      "shares_outstanding": 462000000.0,
+      "total_assets": 27165000000.0,
+      "total_equity": 14051000000.0,
+      "total_debt": 4633000000.0,
+      "operating_cash_flow": 7838000000.0,
+      "free_cash_flow": 7396000000.0
+    },
+    {
+      "fiscal_year": 2023,
+      "revenue": 19409000000.0,
+      "operating_income": 6650000000.0,
+      "net_income": 5428000000.0,
+      "eps": 11.82,
+      "shares_outstanding": 455000000.0,
+      "total_assets": 29779000000.0,
+      "total_equity": 16518000000.0,
+      "total_debt": 4080000000.0,
+      "operating_cash_flow": 7302000000.0,
+      "free_cash_flow": 6942000000.0
+    },
+    {
+      "fiscal_year": 2024,
+      "revenue": 21505000000.0,
+      "operating_income": 7741000000.0,
+      "net_income": 5560000000.0,
+      "eps": 12.36,
+      "shares_outstanding": 441000000.0,
+      "total_assets": 30230000000.0,
+      "total_equity": 14105000000.0,
+      "total_debt": 6056000000.0,
+      "operating_cash_flow": 8056000000.0,
+      "free_cash_flow": 7873000000.0
+    },
+    {
+      "fiscal_year": 2025,
+      "revenue": 23769000000.0,
+      "operating_income": 8706000000.0,
+      "net_income": 7130000000.0,
+      "eps": 16.7,
+      "shares_outstanding": 413000000.0,
+      "total_assets": 29496000000.0,
+      "total_equity": 11623000000.0,
+      "total_debt": 6648000000.0,
+      "operating_cash_flow": 10031000000.0,
+      "free_cash_flow": 9852000000.0
+    }
+  ]
+}

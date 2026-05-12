@@ -1,0 +1,75 @@
+{
+  "ticker": "INTU",
+  "name": "Intuit Inc.",
+  "sector": "Technology",
+  "current_price": 391.34,
+  "trailing_pe": 25.444733,
+  "last_updated": "2026-05-11T19:30:52.756016Z",
+  "financials": [
+    {
+      "fiscal_year": 2021,
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "net_income": 0.0,
+      "eps": 0.0,
+      "shares_outstanding": 276550000,
+      "total_assets": 0.0,
+      "total_equity": 0.0,
+      "total_debt": 0.0,
+      "operating_cash_flow": 0.0,
+      "free_cash_flow": 0.0
+    },
+    {
+      "fiscal_year": 2022,
+      "revenue": 12726000000.0,
+      "operating_income": 2559000000.0,
+      "net_income": 2066000000.0,
+      "eps": 7.28,
+      "shares_outstanding": 281932000.0,
+      "total_assets": 27734000000.0,
+      "total_equity": 16441000000.0,
+      "total_debt": 7540000000.0,
+      "operating_cash_flow": 3889000000.0,
+      "free_cash_flow": 3660000000.0
+    },
+    {
+      "fiscal_year": 2023,
+      "revenue": 14368000000.0,
+      "operating_income": 3141000000.0,
+      "net_income": 2384000000.0,
+      "eps": 8.42,
+      "shares_outstanding": 280421000.0,
+      "total_assets": 27780000000.0,
+      "total_equity": 17269000000.0,
+      "total_debt": 6689000000.0,
+      "operating_cash_flow": 5046000000.0,
+      "free_cash_flow": 4786000000.0
+    },
+    {
+      "fiscal_year": 2024,
+      "revenue": 16285000000.0,
+      "operating_income": 3853000000.0,
+      "net_income": 2963000000.0,
+      "eps": 10.43,
+      "shares_outstanding": 280268000.0,
+      "total_assets": 32132000000.0,
+      "total_equity": 18436000000.0,
+      "total_debt": 6567000000.0,
+      "operating_cash_flow": 4884000000.0,
+      "free_cash_flow": 4634000000.0
+    },
+    {
+      "fiscal_year": 2025,
+      "revenue": 18831000000.0,
+      "operating_income": 4938000000.0,
+      "net_income": 3869000000.0,
+      "eps": 13.67,
+      "shares_outstanding": 279129000.0,
+      "total_assets": 36958000000.0,
+      "total_equity": 19710000000.0,
+      "total_debt": 6639000000.0,
+      "operating_cash_flow": 6207000000.0,
+      "free_cash_flow": 6083000000.0
+    }
+  ]
+}
